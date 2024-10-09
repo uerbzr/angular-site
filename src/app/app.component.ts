@@ -14,4 +14,7 @@ export class AppComponent {
   Increment() {
     this.counter++;
   }
+  Decrement() {
+    this.counter--;
+  }
 }
